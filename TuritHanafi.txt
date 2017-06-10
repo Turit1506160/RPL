@@ -1,24 +1,2 @@
-1.	Component Diagram menggambarkan alokasi semua kelas dan objek ke dalam komponen-komponen dalam desain fisik system software. Diagram ini memperlihatkan pengaturan dan kebergantungan antara komponen-komponen softwore, seperti source code, binary code, dan komponen tereksekusi (executable components). Sebuah komponen berisi informasi tentang logic class atau class yang diimplementasikan sehingga membuat pemetaan dari logical view ke component view. 
-
-2.	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3.	
+Majunya perkembangan teknologi informasi sudah mencapai taraf sebagai kebutuhan, sehingga semua lapisan baik perseorangan, instansi pemerintah maupun swasta tergerak untuk menggunakannya. Perkembangan teknologi informasi juga menjamah proses dalam lingkup instansi pemerintah agar dapat meningkatkan efektifitas dan efisiensi kerja dalam rangka memberikan pelayanan prima terhadap masyarakat. Sehubungan dengan hal tersebut dalam rangka mewujudkan pelayanan yang baik dalam rangka memberikan pelayanan dengan cepat kepada masyarakat. Salah satu pekerjaan rutin yang sering dilakukan adalah pengadministrasian surat masuk dan surat keluar yang hasil keluaran dari produk pekerjaan adalah untuk menjawab surat dari masyarakat yang berkaitan dengan kewajiban perpajakannya. 
+Administrasi surat yang ada pada Kementrian ada bermacam-macam, di antaranya surat masuk umum dari internal, surat masuk umum dari eksternal, nota dinas, dan surat tugas. Pengadministrasian surat masuk dan surat keluar dilakukan dengan mencatat aktifitas keluar masuk surat secara manual dengan menggunakan buku administrasi surat masuk dan surat keluar secara terpisah. Ada juga seksi atau bagian menggunakan aplikasi Microsoft Office untuk melakukan pengadministrasian surat. Setelah diadministrasikan surat tersebut dikelompokkan berdasarkan jenisnya secara manual.
