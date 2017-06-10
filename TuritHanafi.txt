@@ -1,0 +1,24 @@
+1.	Component Diagram menggambarkan alokasi semua kelas dan objek ke dalam komponen-komponen dalam desain fisik system software. Diagram ini memperlihatkan pengaturan dan kebergantungan antara komponen-komponen softwore, seperti source code, binary code, dan komponen tereksekusi (executable components). Sebuah komponen berisi informasi tentang logic class atau class yang diimplementasikan sehingga membuat pemetaan dari logical view ke component view. 
+
+2.	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.	
